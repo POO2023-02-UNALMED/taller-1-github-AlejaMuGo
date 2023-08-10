@@ -1,3 +1,8 @@
+
 Maria Alejandra Muñoz Gonzalez
 20
 Espero aprender a programar en java
+
+Se puedo hacer commit porque la carpeta estaba vacia
+
+Es importante porque sino se tiene cuidado puede generar confilctos y problemas màs adelante con las versiones
